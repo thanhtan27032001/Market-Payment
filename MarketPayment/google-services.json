@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676325852776",
+    "firebase_url": "https://marketpayment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "marketpayment",
+    "storage_bucket": "marketpayment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676325852776:android:0810e008960367f7125ddd",
+        "android_client_info": {
+          "package_name": "com.example.marketpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676325852776-tol7nrltm29t5rk5em32nehi6qnggbu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6Kcnd6GPuncszhPblXugSUJu2U4O4XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676325852776-tol7nrltm29t5rk5em32nehi6qnggbu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MarketPayment" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorPrimaryVariant">@color/gray_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorSecondaryVariant">@color/green_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Text -->
+        <item name="fontFamily">@font/baloo_2</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+        <!-- Popup menu-->
+        <item name="popupMenuBackground">@drawable/background_popup_menu</item>
+        <item name="android:popupMenuStyle">@style/MyPopupMenu</item>
+    </style>
+
+    <style name="Theme.MarketPayment.Login" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/gray</item>
+        <item name="colorPrimaryVariant">@color/gray_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/gray_light</item>
+        <item name="colorSecondaryVariant">@color/gray_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="TitleLoginAndSignup">
+        <item name="android:textColor">@color/gray</item>
+        <item name="fontFamily">@font/baloo_2</item>
+    </style>
+
+    <style name="InfoBackground" parent="Theme.MarketPayment">
+        <item name="backgroundColor">@color/gray_light</item>
+    </style>
+    <!-- Splash Screen theme. -->
+    <style name="SplashTheme" parent="Theme.MarketPayment">
+        <item name="android:windowBackground">@drawable/background_splash_screen</item>
+    </style>
+
+    <style name="MyPopupMenu" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@drawable/background_popup_menu</item>
+    </style>
+</resources>

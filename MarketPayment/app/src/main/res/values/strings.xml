@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Market Payment</string>
+    <string name="greeting_text" translatable="false">Hello,</string>
+    <string name="greeting_long_text" translatable="false">Welcome back to your payment management</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <string name="default_notification_channel_id" translatable="false">27032001</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">To keep connect with Market payment</string>
+    <string name="email_input_hint" translatable="false">Email</string>
+    <string name="password_input_hint">Password</string>
+    <string name="remember_checkbox_hint">Remember me</string>
+    <string name="sign_up_title">Sign up</string>
+    <string name="new_payment_description">New payment</string>
+    <string name="back_button_description">Back</string>
+    <string name="tab_season">Season</string>
+    <string name="tab_payment">Payment</string>
+    <string name="sign_up_subtitle">Market payment account by Email</string>
+    <string name="nickname_input_hint">Nickname</string>
+    <string name="confirm_password_input_hint">Confirm password</string>
+    <string name="sign_up_button">Create account</string>
+    <string name="back_textview_signup">Go back to Login screen</string>
+    <string name="body_dialog_delete_payment">Are you sure to delete this payment?</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_yes">Yes</string>
+    <string name="textview_added_by">Added by:</string>
+    <string name="textview_payment_id">Payment id:</string>
+    <string name="textview_date_added">Date added:</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_ok">OK</string>
+    <string name="change_nickname_title">Change nickname</string>
+    <string name="new_nickname_input_hint">Input new nickname</string>
+    <string name="button_submit">Submit</string>
+    <string name="change_password_title">Change password</string>
+    <string name="new_password_input_hint">New password</string>
+    <string name="textview_example">Example:</string>
+    <string name="item_name_input_hint">Item name</string>
+    <string name="item_price_input_hint">Item price (₫)</string>
+    <string name="edit_payment_title">Edit payment</string>
+    <string name="button_app_widget">Add new payment</string>
+    <string name="textview_current_season_payment">Payment of current season</string>
+    <string name="textview_older_season">Older season</string>
+    <string name="textview_avg_paid">Average paid</string>
+    <string name="textview_creator">Creator:</string>
+    <string name="textview_finisher">Finisher:</string>
+    <string name="textview_period">Period:</string>
+    <string name="textview_total_paid">Total paid:</string>
+    <string name="textview_user">User</string>
+    <string name="textview_paid">Paid (₫)</string>
+    <string name="textview_index">Index (₫)</string>
+    <string name="textview_season">Season:</string>
+    <string name="textview_season_info">Season information</string>
+    <string name="textview_payment_summary">Payment summary</string>
+    <string name="pick_avt_color_title">Pick avatar color</string>
+    <string name="give_feedback_title">Give feedback</string>
+    <string name="start_new_season_title">Start new season</string>
+    <string name="sign_out_title">Sign out</string>
+    <string name="textview_season2">Season</string>
+    <string name="dialog_login_user_not_exist">User not exist</string>
+    <string name="dialog_login_fail">Email or Password incorrect</string>
+    <string name="dialog_add_payment_success">Add new payment successful</string>
+    <string name="dialog_add_payment_fail">Add new payment fail</string>
+    <string name="dialog_add_payment_error">Something went wrong, insert fail</string>
+    <string name="dialog_add_payment_not_remember">You have to remember login to add new payment</string>
+    <string name="error_item_name_empty">Item name cannot be empty</string>
+    <string name="error_item_price_empty">Item price cannot be empty</string>
+    <string name="dialog_sign_up_successful">Create new account successful</string>
+    <string name="dialog_sign_up_fail">Email is existed, sign up fail</string>
+    <string name="error_nickname_empty">Nickname cannot be empty</string>
+    <string name="error_email_empty">Email cannot be empty</string>
+    <string name="error_email_invalid">Invalid email, please check email again</string>
+    <string name="error_password_empty">Password cannot be empty</string>
+    <string name="error_confirm_password_incorrect">Confirm password is incorrect</string>
+    <string name="dialog_signing_in">Signing in, please wait&#8230;</string>
+    <string name="dialog_change_nickname_successful">Change nickname successful</string>
+    <string name="error_nickname_at_minimum_length">Nickname must have at least 1 character</string>
+    <string name="dialog_change_password_successful">Change password successful</string>
+    <string name="dialog_change_password_fail">Change password fail</string>
+    <string name="error_send_email">Cannot send email</string>
+    <string name="dialog_body_start_new_season">Are you sure to start a new season?\nCurrent season will be finished.</string>
+    <string name="error_password_at_minimum_length">Password must have at least 1 character</string>
+    <string name="dialog_pick_color_successful">Change avatar color successful</string>
+    <string name="dialog_start_new_season_successful">Successfully created new season, re-login to continue using</string>
+</resources>
